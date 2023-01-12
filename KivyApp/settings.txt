@@ -1,0 +1,11 @@
+Set vscode Py version on py3.10.8 Venv
+
+on cmd:
+
+$ cd C:\Users\miche\OneDrive\Desktop\Projects\Python\KivyApp
+
+$ kivy_venv\Scripts\activate
+
+$ .\kivyApp.py
+
+than run the script on Vscode
