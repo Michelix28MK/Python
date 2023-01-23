@@ -9,3 +9,5 @@ $ kivy_venv\Scripts\activate
 $ .\kivyApp.py
 
 than run the script on Vscode
+
+to compile the app for android -> colabe.researc.google.com -> kivy_deploy.txt -> !buildozer -v android debug
